@@ -1,0 +1,31 @@
+Menu:
+
+Breakfast:    	  Price:
+
+Poha				15
+Samosa			10
+Upma				15
+Vada-Pav			10
+
+
+
+Lunch:
+
+Roti				10
+Bhaji				20
+Pulav				25
+Rice				15
+Pav				5
+Dal				15
+	
+Beverages:      
+
+Tea				10
+Coffee			20
+Pepsi				20
+Sprite				20
+Lemonade		20
+7Up				20
+Mountain dew	24
+Butter milk		15
+Water				15

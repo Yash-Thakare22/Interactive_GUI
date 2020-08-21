@@ -1380,6 +1380,7 @@ case $choice in
 	done
 ;;
 
+
 2)
 eog a.JPG
 ;;

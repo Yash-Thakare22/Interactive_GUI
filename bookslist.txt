@@ -1,0 +1,76 @@
+ Author's Name            			Book's Name
+1 Steve McConnell	Code Complete: A Practical Handbook of Software Construction 
+2 Elisabeth Freeman	Head First Design Patterns
+3 Steve McConnell	Rapid Development
+4 Erich Gamma		Design Patterns: Elements of Reusable Object-Oriented Software
+5 Bruce Schneier		Applied Cryptography: Protocols, Algorithms, and Source Code (2nd Edition)
+6 Robert C. Martin	Agile Software Development: Principles, Patterns and Practices
+7 Joel Spolsky		Joel on Software
+8 Tom DeMarco		Peopleware: Productive Projects and Teams (2nd Edition)
+9 Frederick Brooks	The Mythical Man-Month, Anniversary Edition (2nd Edition)
+10 Martin Fowler		Refactoring: Improving the Design of Existing Code
+11 Mike Cohn			Agile Estimating and Planning
+12 Alistair Cockburn	Writing Effective Use Cases
+13 Bertrand Meyer	Object-Oriented Software Construction (2nd Edition)
+14 Steve McConnell	Software Estimation: Demystifying the Black Art
+15 Mike Cohn			User Stories Applied: For Agile Software Development
+16 Donald E. Knuth	The Art of Computer Programming, The, Volumes 1-3 Boxed Set (2nd Edition)
+17 Martin Fowler		Patterns of Enterprise Application Architecture
+18 Jeffrey Friedl		Mastering Regular Expressions
+19 Andrew Hunt		The Pragmatic Programmer: From Journeyman to Master
+20 Karl E. Wiegers	Software Requirements (2nd Edition)
+21 Craig Larman		Applying UML and Patterns (3rd Edition)
+22 Alistair Cockburn	Agile Software Development: The Cooperative Game (2nd Edition)
+23 Gary McGraw		Software Security: Building Security In
+24 Gregor Hohpe		Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions
+25 Tom DeMarco		The Deadline: A Novel About Project Management
+26 Craig Larman		Agile and Iterative Development: A Manager’s Guide
+27 Eric A. Marks		Service-Oriented Architecture: A Planning and Implementation Guide for Business and Technology
+28 Thomas Cormen	Introduction to Algorithms, Second Edition
+29 Thomas Erl		Service-Oriented Architecture: A Field Guide to Integrating XML and Web Services
+30 Martin Fowler		UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd Edition)
+31 Kent Beck			Extreme Programming Explained: Embrace Change (2nd Edition)
+32 Alan Shalloway	Design Patterns Explained: A New Perspective on Object-Oriented Design (2nd Edition)
+33 Grady Booch		Object-Oriented Analysis and Design with Applications (3rd Edition)
+34 Jim Highsmith	Agile Project Management: Creating Innovative Products
+35 Scott Berkun		Making Things Happen: Mastering Project Management
+36 Jon Bentley		Programming Pearls (2nd Edition)
+37 Paul Duvall		Continuous Integration: Improving Software Quality and Reducing Risk
+38 Andrew Stellman	Applied Software Project Management
+39 Clemens Szypers    Component Software: Beyond Object-Oriented Programming
+40 Arthur J. Riel		Object-Oriented Design Heuristics
+41 Thomas Erl		SOA Principles of Service Design
+42 Mary Popendieck    Software Development: An Agile Toolkit
+43 Ken Schwaber		Agile Project Management with Scrum
+44 Ken Schwaber		Agile Software Development with Scrum
+45 Joshua Kerievsky	Refactoring to Patterns
+46 Alistair Cockburn	Crystal Clear: A Human-Powered Methodology for Small Teams
+47 Steve McConnell	Software Project Survival Guide
+48 Tom DeMarco		Waltzing With Bears: Managing Risk on Software Projects
+49 Venkat Subraman	Practices of an Agile Developer: Working in the Real World
+50 Kathy Schwalbe	Information Technology Project Management
+51 Randall Hyde		Write Great Code: Volume 1: Understanding the Machine
+52 Scott Rosenberg	Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software
+53 Cem Kaner			Lessons Learned in Software Testing
+54 Andy Oram		Beautiful Code: Leading Programmers Explain How They Think
+55 Luke Hohmann	Beyond Software Architecture: Creating and Sustaining Winning Solutions
+56 Grady Booch		Unified Modeling Language User Guide, The (2nd Edition)
+57 Karl Fogel			Producing Open Source Software: How to Run a Successful Free Software Project
+58 Michael Feathers	Working Effectively with Legacy Code
+59 Kent Beck			Test Driven Development: By Example
+60 Per Kroll		 	The Rational Unified Process Made Easy: A Practitioner’s Guide to the RUP
+61 Thomas Erl		Service-Oriented Architecture: Concepts, Technology, and Design
+62 Cem Kaner			Testing Computer Software (2nd Edition)
+63 Frank Busch		Pattern-Oriented Software Architecture Volume 1: A System of Patterns
+64 Harold Abelson	Structure and Interpretation of Computer Programs – 2nd Edition
+65 Dan Pilone			UML 2.0 in a Nutshell
+66 Brett McLaughlin  First Object-Oriented Analysis and Design
+67 Johan Rothman     Manage It!: Your Guide to Modern, Pragmatic Project Management
+68 James Shore		The Art of Agile Development
+69 Brian Kernighan	The Practice of Programming
+70 Ron Jeffries		Extreme Programming Installed
+71 Scott W. Ambler	Refactoring Databases: Evolutionary Database    Design
+72 Jared Richardson	Ship it! A Practical Guide to Successful Software Projects
+73 Greg Hoglund		Exploiting Software: How to Break Code
+74 Michael Nygard	Release It!: Design and Deploy Production-Ready Software
+75 Edward Yourdon	Death March (2nd Edition)

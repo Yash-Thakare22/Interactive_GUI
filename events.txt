@@ -1,0 +1,45 @@
+Events:
+
+Android workshop:
+Android App Development Workshop mainly focuses on how to use Android OS for building your own Android Application. Only the basic knowledge of programming is required for Android App Development. The workshop will start from the basics like designing layouts and building complex layouts. Once the basics of Android are done we will begin with building Apps.
+The duration of this workshop will be two consecutive days, with eight hours session each day in a total of 5 days, properly divided into theory and hand on practical sessions. At the end of this workshop, a competition will be organized among the participating students where each participating student will get Certificate of Participation and the Winners will get Certificate of Merit.
+
+Price: Rs 100
+
+Cloud computing:
+Cloud computing has recently emerged as one of the buzzwords in the IT industry. Numerous IT vendors are promising to offer computation, storage, and application hosting services and to provide coverage in several continents. They offer subscription-based access to infrastructure, platforms, and applications that are popularly referred to as IaaS (Infrastructure as a Service), PaaS (Platformas a Service), and SaaS (Software as a Service).
+The duration of this workshop will be 1 day , with 3 Sessions , 3 hours each, properly divided into theory and hand on practical sessions.
+
+Price: Rs 50
+
+Cyber security workshop:
+Ethical hacking is an important tool in many national security agencies and even companies. In order to become an Ethical Hacker or Security Expert one must think out of the box with the mentality that in order to catch a thief.
+This workshop is specifically designed to provide the right knowledge to the aspiring Hacking and Cyber Security enthusiasts. This workshop will explore the various means that an intruder has, to gain access to computer resources. It will investigate weaknesses by discussing the theoretical background behind, and whenever possible, actually performing the attack.
+The duration of this workshop will be two consecutive days with eight hours session each day. At the end of this workshop each participating student will get Certificate of Participation.
+
+Price: Rs 75
+
+Arduino workshop:
+Arduino workshop will focus on getting you up and running with Arduino quickly, so that you will understand the basic procedures for working with Arduino and can explore further on your own. An Arduino is a small computer that you can program to control things like lights or motors along with listening to components like motion detection sensors. It can give your project interactivity without needing an expensive and large circuit. Instead, you use a computer to program the Arduino, upload your code to the Arduino, and hook up your circuit.
+The duration of this workshop will be two consecutive days with eight hours session each day, in a total of sixteen hours properly divided into theory and hand on practical sessions.
+
+Price: Rs 75
+
+Linux workshop:
+As an open operating system, Linux is developed collaboratively, meaning no one company is solely responsible for its development or ongoing support. Companies participating in the Linux economy share research and development costs with their partners and competitors. This spreading of development burden amongst individuals and companies has resulted in a large and efficient ecosystem and unheralded software innovation.Linux is already successful on many different kinds of devices, but there are also many technological areas where Linux is moving towards, even as desktop and server development continues to grow faster than any other operating system today.
+The duration of linux workshop will be two consecutive days, with eight hours session each day in a total of sixteen hours, properly divided into theory and hand on practical sessions.
+
+Price: Rs 50
+
+Photoshop workshop:
+Photoshop Workshop is both for first time user of Photoshop, as well as for more experienced users who want to learn to do more with the program, or to explore what this newest version has to offer. Adobe Photoshop is an amazingly powerful and complete program for working with digital images (photographs), and yet for all its power, it's surprisingly easy to learn to start using it effectively.
+At the end of this workshop a competition will be organized among the participating students where each participating student will get Certificate of Participation and the Winners will get Certificate of Merit.
+
+Price: Rs 100
+
+Web Designing Workshop:
+Web Designing is the planning and creation of websites. This includes the information architecture, user interface, site structure, navigation, layout, colors, fonts, and imagery. All of these are combined with the principles of design to create a website that meets the goals of the owner and designer.
+Here u will learn the skills of HTML5, CSS3, javascript. With this u will also learn how to deploy the website to the 
+server. It will be a one day event and at the end of the event certificates of participation will be distributed to all. 
+
+Price: Rs 200
